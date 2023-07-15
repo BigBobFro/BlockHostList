@@ -1,0 +1,27 @@
+# Title: DerUberGeek/hosts
+#
+# This hosts file serves as an adendum to that of StevenBlack\Hosts
+# (https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
+#
+# This file is meant for use with a Pi-Hole as an additional Adlist of hosts to be blocked
+#
+# Original Date: 15 July 2023 02:32:00 (UTC)
+# Number of services to block: 
+# Number of unique domains: 
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/BigBobFro/BlockHostList/master/hosts
+# Project home page: https://github.com/BigBobFro/BlockHostList
+#
+# ===============================================================
+
+# TikTok
+
+# YouTube
+
+# Facebook
+
+# SnapChat
+
+# Twitter
+
+# Instagram
