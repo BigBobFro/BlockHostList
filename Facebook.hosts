@@ -1,0 +1,27 @@
+# Title: DerUberGeek/Facebook.hosts
+#
+# This hosts file serves as an adendum to that of StevenBlack\Hosts
+# (https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
+#
+# This file is meant for use with a Pi-Hole as an additional Adlist of hosts to be blocked, focused exclusively on hosts servicing Facebook
+#
+# Original Date: 03 August 2023 02:32:00 (UTC)
+# Number of services to block: 
+# Number of unique domains: 
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/BigBobFro/BlockHostList/master/
+# Project home page: https://github.com/BigBobFro/BlockHostList
+#
+# ===============================================================
+
+# Facebook (31.13.69.16)
+0.0.0.0 facebook.com
+0.0.0.0 login.facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 blog.facebook.com
+0.0.0.0 apps.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 m.login.facebook.com
+0.0.0.0 m.www.facebook.com
+0.0.0.0 m.blog.facebook.com
+0.0.0.0 m.apps.facebook.com
