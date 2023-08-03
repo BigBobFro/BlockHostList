@@ -1,0 +1,24 @@
+# Title: DerUberGeek/TikTok.hosts
+#
+# This hosts file serves as an adendum to that of StevenBlack\Hosts
+# (https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
+#
+# This file is meant for use with a Pi-Hole as an additional Adlist of hosts to be blocked, focused exclusively on hosts servicing TikTok
+#
+# Original Date: 03 August 2023 02:32:00 (UTC)
+# Number of services to block: 
+# Number of unique domains: 
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/BigBobFro/BlockHostList/master/hosts
+# Project home page: https://github.com/BigBobFro/BlockHostList
+#
+# ===============================================================
+
+# TikTok
+0.0.0.0 musical.ly
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 tiktok.com
+0.0.0.0 tiktok.org
+0.0.0.0 tiktokcdn-com.akamaized.net
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
