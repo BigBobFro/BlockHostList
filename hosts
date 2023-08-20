@@ -5,9 +5,10 @@
 #
 # This file is meant for use with a Pi-Hole as an additional Adlist of hosts to be blocked
 #
-# Original Date: 15 July 2023 02:32:00 (UTC)
-# Number of services to block: 
-# Number of unique domains: 
+# Original Date: 15 July 2023 02:32 (UTC)
+### Updated Date: 20 August 2023 17:39 (UTC)
+# Number of services to block: 6
+# Number of unique domains: 45
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/BigBobFro/BlockHostList/master/hosts
 # Project home page: https://github.com/BigBobFro/BlockHostList
