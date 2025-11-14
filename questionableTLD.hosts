@@ -1,0 +1,23 @@
+# Title: DerUberGeek/QuestionableTLD.hosts
+#
+# This hosts file serves as an adendum to that of StevenBlack\Hosts
+# (https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
+#
+# This file is meant for use with a Pi-Hole as an additional Adlist of hosts to be blocked, 
+#     focused on blocking questionable TLDs (Terminal Level Domains).
+#
+# Original Date: 14 November 2025 02:32:00 (UTC)
+# Number of services to block: 
+# Number of unique domains: 6
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/BigBobFro/BlockHostList/main/
+# Project home page: https://github.com/BigBobFro/BlockHostList
+#
+# ===============================================================
+
+0.0.0.0 *.cn 	# China
+0.0.0.0 *.ph	# Phillapines 
+0.0.0.0 *.ru	# Russia
+0.0.0.0 *.xin	# China
+0.0.0.0 *.zip	# Questionable due to similarities to ZIP archive files
+0.0.0.0 *.mov	# Questionable due to similarities to MOV video files (Quicktime)
